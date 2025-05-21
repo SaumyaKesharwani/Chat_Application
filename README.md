@@ -52,7 +52,7 @@ Follow these steps to run the application locally:
 ### **Steps:**
 1. **Clone the Repository:**  
    ```bash
-   git clone https://github.com/Rupali-Jaiswal/Chat_Application.git
+   git clone https://github.com/SaumyaKesharwani/Chat_Application.git
    cd Chat_Application
 
  ---  
