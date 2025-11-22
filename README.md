@@ -1,5 +1,5 @@
 # **Chat Application**
-
+ 
 A real-time chat platform built using the MERN (MongoDB, Express.js, React.js, and Node.js) stack, supporting individual and group chats with secure user authentication and profile management.
 
 ---
